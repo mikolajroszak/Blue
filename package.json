@@ -96,7 +96,7 @@
     ]
   },
   "dependencies": {
-    "@babel/preset-env": "7.18.0",
+    "@babel/preset-env": "7.23.3",
     "@bugsnag/react-native": "7.16.5",
     "@bugsnag/source-maps": "2.3.1",
     "@keystonehq/bc-ur-registry": "0.4.4",
@@ -105,7 +105,7 @@
     "@react-native-clipboard/clipboard": "1.10.0",
     "@react-native-community/push-notification-ios": "1.10.1",
     "@react-navigation/drawer": "5.12.5",
-    "@react-navigation/native": "5.9.4",
+    "@react-navigation/native": "6.1.0",
     "@remobile/react-native-qrcode-local-image": "https://github.com/BlueWallet/react-native-qrcode-local-image",
     "aez": "1.0.1",
     "assert": "2.0.0",
@@ -185,7 +185,7 @@
     "react-native-watch-connectivity": "1.0.5",
     "react-native-webview": "11.18.1",
     "react-native-widget-center": "https://github.com/BlueWallet/react-native-widget-center#b1382bbe1ed631b50a8aa03390f64c50775bc9ff",
-    "react-native-windows": "0.67.6",
+    "react-native-windows": "0.75.0",
     "react-test-render": "1.1.2",
     "readable-stream": "3.6.0",
     "realm": "^10.20.0-beta.5",
